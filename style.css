@@ -1,0 +1,19 @@
+h1 {
+  color: rgb(7, 29, 104);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 40;
+  text-align: center;
+  background-color: aqua;
+  width: 625px;
+  scroll-padding-block: 60px;
+  border: 20px color rgb(77, 5, 5);
+}
+
+body {
+  background-color: bisque;
+}
+
+ul {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: larger;
+}
